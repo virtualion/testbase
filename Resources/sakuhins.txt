@@ -1,0 +1,7 @@
+./Images/den.JPG,
+./Images/ki.JPG,
+./Images/sora.JPG,
+./Images/DefaultImages/hatena.png,
+./Images/DefaultImages/hatena2.png,
+./Images/DefaultImages/Splash.png,
+./Images/DefaultImages/zz_black.png,

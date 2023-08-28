@@ -1,0 +1,8 @@
+Metal
+MetalGold
+WoodenWhite
+WoodenBlack
+Wooden
+Wooden_thin
+Wooden_thin2
+none(caption)

@@ -1,2 +1,2 @@
-#url=https://virtualion.github.io/testbase/Resources/
+#root=https://virtualion.github.io/testbase/Resources/
 #prj=web2
